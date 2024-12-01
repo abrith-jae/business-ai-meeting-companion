@@ -19,15 +19,7 @@ Then, install the required libraries in the environment (this will take time ☕
 
 Have a cup of coffee, it will take a few minutes.
 
-1.       )  (
-2.      (   ) )
-3.       ) ( (
-4.     _______)_
-5.  .-'---------|  
-6. ( C|/\/\/\/\/|
-7.  '-./\/\/\/\/|
-8.    '_________'
-9.     '-------'
+
 
 We need to install ffmpeg to be able to work with audio files in python.
 
