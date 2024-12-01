@@ -29,3 +29,19 @@ Then run:
 
 1. sudo apt install ffmpeg -y
 
+# Step 2: Creating audio transcription app
+Create a new python file speech2text_app.py
+
+# Step 3: Integrating LLM: Using Llama 3 in WatsonX as LLM
+Running simple LLM
+Let's start by generating text with LLMs. Create a Python file and name it simple_llm.py. You can proceed by clicking the link below or by referencing the accompanying image.
+
+# Step 4: Put them all together
+Create a new Python file and call it speech_analyzer.py
+
+
+
+
+
+
+
